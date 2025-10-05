@@ -13,7 +13,7 @@ export default function Home() {
             <Link href="https://github.com/Abad-Ali/ZipLinks---Shorten-your-URLs-in-a-flash" target="_blank"><button className='bg-purple-700 p-4 py-2.5 font-bold rounded-xl hover:cursor-pointer'>GitHub</button></Link>
           </div>
         </div>
-        <div className="flex justify-start relative md:h-[91vh]">
+        <div className="flex justify-start relative md:h-[91vh] mt-7">
           <Image className="mix-blend-darken rounded-2xl" src={"/vector2.jpeg"} alt="Vector_img" fill={true} />
         </div>
       </section>
