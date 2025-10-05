@@ -10,7 +10,7 @@ const Contact = () => {
           </div>
           <div className='flex flex-col gap-4 items-center justify-center'>
             <h1 className='text-4xl text-purple-800 font-black text-center'>Contact Us</h1>
-            <p className='px-20 font-serif md:text-lg text-xs text-center'>Thank you for visiting ZipLinks! We’re here to help you make the most of our URL shortening service. Whether you have a question, need assistance, or just want to give us feedback, don’t hesitate to reach out!</p>
+            <p className='px-20 font-serif md:text-lg text-xs text-center'>Thank you for visiting ZipLinks! We’re here to help you make the most of our URL shortening service.</p>
           </div>
       </div>
 
