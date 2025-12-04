@@ -12,7 +12,7 @@ const Footer = () => {
              [Twitter: ZipLinks_127]
              [LinkedIn: ZipLinks_07]
           </p>
-          <p class="text-sm text-gray-500 text-center mt-4">
+          <p className="text-sm text-gray-500 text-center mt-4">
              This is a student project created for educational purposes. Some features may be placeholders.
           </p>
         
